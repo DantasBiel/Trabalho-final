@@ -1,0 +1,55 @@
+    .Barba{
+        border: solid 1px black;
+        width: 180px;
+
+    }
+    
+    .Cabelo{
+         border: solid 1px black;
+        width: 180px;
+        
+    }
+
+    .Sombrancelha{
+        border: solid 1px black;
+        width: 180px;
+        
+    }
+
+.lista{
+    display: flex;
+    justify-content: space-around;
+}
+.imagem {
+    width: 30%;
+    margin-left: 35%;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.subtitulo{
+    text-align: center;
+}
+
+.nav{
+    display: flex;
+    text-align: center;
+    font-size: 150%;
+    justify-content: center;
+    color: black;
+}
+
+.nav .itens a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+   list-style-type: none;
+}
+
+.img {
+    margin-left: 15%;
+}
